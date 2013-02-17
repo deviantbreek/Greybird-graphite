@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Greybird-graphite
+Comment=all-grey variation of Greybird theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Greybird-graphite
+MetacityTheme=Greybird-graphite
+IconTheme=elementary-xfce-dark
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close

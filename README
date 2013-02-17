@@ -1,0 +1,22 @@
+Greybird-graphite made by breek (http://breek.deviantart.com/)
+
+This theme is an all-grey variation of Greybird
+(http://shimmerproject.org/project/greybird/) originally made by
+Simon Steinbeiß and Satyajit Sahoo.
+
+As the original theme, Greybird-graphite is dual-licensed as GPLv2
+or later and CC-BY-SA 3.0 or later.
+
+Available in Greybird-graphite:
+– GTK2 theme
+– GTK3 theme
+– Xfwm4 theme
+– xfce-notifyd theme
+– Metacity theme
+– Mutter theme
+– Unity support
+– Granite widgets support
+
+Dependencies of gtk3.2-branch (for Gtk3.2)
+– gtk2-engines-murrine (v0.90)
+- gtk3-engines-unico (v1.0.1)
